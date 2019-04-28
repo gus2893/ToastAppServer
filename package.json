@@ -4,7 +4,7 @@
   "description": "toast notification for blumshapiro employees",
   "main": "index.js",
   "scripts": {
-    "dex": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Gustavo Evangelista",
   "license": "ISC",

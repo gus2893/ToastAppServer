@@ -9,6 +9,10 @@ const toastSchema = new mongoose.Schema({
         type: String,
         trim:true
     },
+    URL: {
+        type: String,
+        trim:true
+    },
 }, {
     timestamps: true
 })
